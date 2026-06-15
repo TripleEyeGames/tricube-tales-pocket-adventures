@@ -1,3 +1,6 @@
+# Archived
+This repository has [moved](https://codeberg.org/TripleEyeGames/tricube-tales-pocket-adventures).
+
 # This Repository
 This repository was created to practice using Ink, and to determine if a Tricube Tales one-page adventure could be implemented as a video game.
 
